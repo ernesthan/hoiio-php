@@ -216,7 +216,7 @@ class IVRService extends HTTPService {
                                        $post_var['txn_ref'],
                                        $dialStatus,
                                        $digits,
-                                       $$recordURL,
+                                       $recordURL,
                                        $transferStatus,
                                        $from,
                                        $to,
